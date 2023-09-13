@@ -18,7 +18,7 @@ def bgMusic():
     mixer.music.play(-1)
 
 bgMusic()
-pygame.display.set_caption('Four In A Row - A Pratyush Inc Game')
+pygame.display.set_caption('Four In A Row CPU')
 
 
 def mainMenu():
@@ -193,5 +193,3 @@ def mainMenu():
 
 
 mainMenu()
-
-#this is the main area where this project will run
